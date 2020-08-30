@@ -1,7 +1,6 @@
 /**
- * @filem 归并排序
+ * @file 归并排序 https://leetcode-cn.com/problems/sorted-merge-lcci/solution/dao-xu-fang-fa-lai-he-bing-shu-zu-by-edwardnan/
  * @author felix
- * https://leetcode-cn.com/problems/sorted-merge-lcci/solution/dao-xu-fang-fa-lai-he-bing-shu-zu-by-edwardnan/
  */
 
 const A = [2, 3, 5];

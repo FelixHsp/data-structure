@@ -1,7 +1,6 @@
 /**
- * @filem 两数之和
+ * @file 两数之和 https://leetcode-cn.com/problems/two-sum/
  * @author felix
- * https://leetcode-cn.com/problems/two-sum/
  */
 
 const nums = [2, 7, 11, 15];
